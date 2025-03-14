@@ -1262,13 +1262,6 @@ skewness_factor = 0
 density = 1
 max_len = 20
 
-[[dataset]]
-name = "webdocs"
-type = "real"
-source = "webdocs"
-gen_count = 1024
-set_count_start = 2
-set_count_end = 8
 
 [[dataset]]
 name = "census1881"
